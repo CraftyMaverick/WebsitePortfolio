@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "dict-web-dev-101": {
+      "hosting": {
+        "website-portfolio": [
+          "dict-web-dev-101"
+        ]
+      }
+    }
+  }
+}
